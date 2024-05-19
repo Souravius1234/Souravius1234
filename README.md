@@ -1,9 +1,11 @@
 Hello there!
 
-I am Sourav Ghosh, currently a Senior (fourth-year) in College, majoring in Aerospace Engineering.
+I am Sourav Ghosh, an Aerospace Engineer from India.
 
-I work on projects all the time, mostly related to embedded systems, electronics, aerospace simulations and autonomous systems. I am also working on Bachelor's thesis, which is related to Guidance and Control of Space vehicles in interstellar space. 
-Do check out my personal website: https://souravius1234.github.io
+I always work on projects, mostly related to embedded systems, electronics, aerospace simulations and autonomous systems. I recently finished my Bachelor's thesis, which was a comparative study of Lambert's problem solvers. Reach out to me if you want to know more about it!
 
-I dream of working on interplanetary space missions some day, taking mankind to new distances in the universe. 
-Contact me if you wish to know more! Details available on my website!
+Do check out my website: https://souravius1234.github.io
+
+I am moving to Tokyo in September 2024 to begin my Master's in Science in Aeronautics and Astronautics from the University of Tokyo! I will be joining the Suzuki laboratory, which focusses on Aerodynamics. 
+
+Contact me if you wish to know more! Details are available on my website!
