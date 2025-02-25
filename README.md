@@ -1,6 +1,4 @@
-[![MasterHead]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fmilky-way&psig=AOvVaw0lohdEnDyxRc8Q39hqoMDv&ust=1740593915113000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDLteK334sDFQAAAAAdAAAAABAJ))((https://github.com/souravius1234/))]
 
-<img align="center" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fmilky-way&psig=AOvVaw0lohdEnDyxRc8Q39hqoMDv&ust=1740593915113000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDLteK334sDFQAAAAAdAAAAABAJ">
 
 Hello there!
 
