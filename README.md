@@ -6,6 +6,6 @@ My focus study areas include Astrodynamics, Aerodynamics, Plasma Flow Simulation
 I don't know what else to write here lol, so I'm gonna leave it like this for now. I'll be adding more codes here, and hopefully make them open-source at some point.
 Have a great day/night ahead. Thanks for dropping by my profile.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravius1234)](https://git.io/streak-stats)
+![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=souravius1234&show_icons=true&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souravius1234&show_icons=true&theme=tokyonight)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=souravius234&width=600)
