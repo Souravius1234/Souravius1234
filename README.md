@@ -9,3 +9,5 @@ Have a great day/night ahead. Thanks for dropping by my profile.
 [![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=souravius1234)](https://github.com/souravius1234/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravius1234)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souravius1234&show_icons=true&theme=tokyonight)
