@@ -11,9 +11,7 @@ Have a great day/night ahead. Thanks for dropping by my profile.
 ![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=souravius1234&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravius1234&layout=donut&theme=tokyonight)](https://github.com/souravius1234/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=souravius1234&theme=tokyonight)](https://git.io/streak-stats)
-
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=souravius1234&theme=tokyonight" alt="GitHub Streak" /></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=souravius1234&theme=tokyonight&short_numbers=true)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
