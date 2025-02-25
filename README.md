@@ -7,3 +7,5 @@ I don't know what else to write here lol, so I'm gonna leave it like this for no
 Have a great day/night ahead. Thanks for dropping by my profile.
 
 [![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=souravius1234)](https://github.com/souravius1234/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravius1234)](https://git.io/streak-stats)
