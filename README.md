@@ -7,4 +7,4 @@ I don't know what else to write here lol, so I'm gonna leave it like this for no
 Have a great day/night ahead. Thanks for dropping by my profile.
 
 ![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=souravius1234&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravius1234&layout=pie)](https://github.com/souravius1234/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravius1234&layout=donut-vertical)](https://github.com/souravius1234/github-readme-stats)
