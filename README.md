@@ -8,4 +8,4 @@ Have a great day/night ahead. Thanks for dropping by my profile.
 
 ![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=souravius1234&show_icons=true&theme=tokyonight)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=souravius234&width=600)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=t5kvft6aj8goyysjjbo83a9xb&width=600)
