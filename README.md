@@ -13,6 +13,8 @@ Have a great day/night ahead. Thanks for dropping by my profile.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=souravius1234&theme=tokyonight)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=souravius1234&theme=tokyonight" alt="GitHub Streak" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sourav-ghosh-065a851a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
