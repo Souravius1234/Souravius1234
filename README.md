@@ -7,5 +7,3 @@ I don't know what else to write here lol, so I'm gonna leave it like this for no
 Have a great day/night ahead. Thanks for dropping by my profile.
 
 ![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=souravius1234&show_icons=true&theme=tokyonight)
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=t5kvft6aj8goyysjjbo83a9xb&width=600)
