@@ -14,8 +14,11 @@ Have a great day/night ahead. Thanks for dropping by my profile.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sourav-ghosh-065a851a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin_white.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/souravius234" target="blank"><img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/dda74a5a-5e52-4585-8625-d4572b430ca0" />
-</a>
+<a href="https://www.instagram.com/souravius234" target="blank"><img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/dda74a5a-5e52-4585-8625-d4572b430ca0" /></a>
+
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/b4fa28b0-a051-484f-9e1e-4e1c891c1077" />
+
+  
 <!--
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
   -->
