@@ -2,7 +2,7 @@
 
 Hello there!
 
-I am Sourav Ghosh, an Aerospace Engineer from India　and a graduate student at the Intelligent Space Systems Laboratory, the Department of Aeronautics and Astronautics, The University of Tokyo. 
+I am Sourav Ghosh, an Aerospace Engineer from India and a graduate student at the Intelligent Space Systems Laboratory, the Department of Aeronautics and Astronautics, The University of Tokyo. 
 My focus study areas include Astrodynamics, Estimation theory, Object Tracking, and Optimization. I have also worked on Aerodynamics, Plasma Flow Simulations, Embedded Systems and Robotics in the past.
 
 Feel free to reach out to me on my socials linked below!
